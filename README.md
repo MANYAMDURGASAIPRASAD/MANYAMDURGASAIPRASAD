@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Manyam Durga Sai Prasad</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Density - Driven Traffic Light Control Project<br>🌱 I’m currently learning about Deep Learning Models<br>
 - 📄 **Know My Experience:** [View My Resume](https://drive.google.com/file/d/1A7UcGqeZpbgu8-IuvJGz7nUGcPjRS_ke/view?usp=sharing)
