@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Density - Driven Traffic Light Control Project<br>🌱 I’m currently learning about Deep Learning Models<br>
-- 📄 **Know My Experience:** [View My Resume]([https://drive.google.com/file/d/1avdmmPJSoBVfjPsBcXQzFtC8rUN_0ARN/view?usp=sharing](https://drive.google.com/drive/my-drive))
+- 📄 **Know My Experience:** [View My Resume](https://drive.google.com/file/d/1A7UcGqeZpbgu8-IuvJGz7nUGcPjRS_ke/view?usp=sharing)
 - 📫 **Reach out to me:** manyam.dsp09@gmail.com
 
 ## 🌐 Socials:
