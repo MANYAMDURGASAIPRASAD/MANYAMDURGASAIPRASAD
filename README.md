@@ -1,88 +1,18 @@
-# 👋 Hi, I’m Manyam Durga Sai Prasad
+# 💫 About Me:
+🔭 I’m currently working on Density - Driven Traffic Light Control Project<br>🌱 I’m currently learning about Deep Learning Models<br>
 
-🎓 B.Tech Computer Science (AI & ML) student at **Malla Reddy University, Hyderabad**  
-💡 Interested in **Artificial Intelligence, Machine Learning, NLP, and Full-Stack Development**  
-🚀 Actively seeking **entry-level / internship roles** in **Software Engineering & AI/ML**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durga_09dsp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durga-sai-prasad-manyam-8154a42b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manyam.dsp09@gmail.com) 
 
-## 🧠 About Me
-
-- Strong foundation in **AI/ML, Deep Learning, and NLP**
-- Hands-on experience building **end-to-end AI applications**
-- Passionate about solving real-world problems using **Python**
-- Comfortable with both **model development and deployment**
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-
-### 🤖 AI / ML Technologies
-- Natural Language Processing (NLP)  
-- Deep Learning Algorithms  
-
-### 🗄️ Databases
-- MySQL  
-- Google Firebase  
-
-### 🔧 Tools
-- Git  
-- GitHub  
-- VS Code  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MANYAMDURGASAIPRASAD&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MANYAMDURGASAIPRASAD&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANYAMDURGASAIPRASAD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MANYAMDURGASAIPRASAD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-
-### 🔹 Named Entity Recognition (NER)
-**Tech Stack:** Python, spaCy, NLP  
-**GitHub:** https://github.com/your-github-username/ner-project  
-
-- Built a Named Entity Recognition system using **spaCy**
-- Classified entities such as persons, organizations, locations, and dates
-- Fine-tuned custom NER models using **transfer learning** for domain-specific accuracy
-
----
-
-### 🔹 Image Caption Generator
-**Tech Stack:** Vision Transformer (ViT), GPT/BERT, Flask  
-**GitHub:** https://github.com/your-github-username/image-caption-generator  
-
-- Developed an AI-based image captioning system using **Computer Vision + NLP**
-- Used **ViT** for image feature extraction and **GPT/BERT** for caption generation
-- Built a **full-stack web application** with Flask, HTML, CSS, and JavaScript
-
----
-
-### 🔹 Automatic Headline Generator
-**Tech Stack:** T5-Base, Transformers, Flask  
-**GitHub:** https://github.com/your-github-username/headline-generator  
-
-- Designed a text summarization system to generate concise news headlines
-- Fine-tuned **T5-Base Transformer** on a custom dataset
-- Developed a Flask-based UI for real-time headline generation
-
----
-
-## 📜 Certifications
-
-- **Deep Learning for Developers** — Infosys (Aug 2024)  
-- **Introduction to Artificial Intelligence** — Infosys (Sep 2024)  
-- **Introduction to Relational Databases** — IBM (Jun 2025)  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: manyam.dsp09@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/durga-sai-prasad-manyam-8154a42b0/  
-- 💻 GitHub: https://github.com/your-github-username  
-
----
-
-⭐ If you like my work, feel free to **star my repositories** and connect with me!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
